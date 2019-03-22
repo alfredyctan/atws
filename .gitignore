@@ -1,0 +1,79 @@
+#general
+**/*.swp
+**/*.log
+**/*.bak
+**/log/
+**/logs/
+
+# gradle
+*/.gradle/
+*/build/
+*/gradle-app.setting
+*/!gradle-wrapper.jar
+*/.gradletasknamecache
+*/gradle
+*/gradlew
+*/gradlew.bat
+
+# eclipse
+/bin/
+*/bin/
+**/.classpath
+**/.project
+**/.settings/
+**/.factorypath
+**/.springBeans
+**/.mvn
+
+# maven
+**/target/
+**/*.versionsBackup
+
+# intellij
+*/*.iml
+*/.idea/
+
+# npm,yarn,webpack
+/node/
+/node_modules/
+/jspm_packages/
+/bower_components/
+/dist/
+/build/
+/pids/
+/lib-cov/
+/coverage/
+*/node/
+*/node_modules/
+*/jspm_packages/
+*/bower_components/
+*/dist/
+*/build/
+*/pids/
+*/lib-cov/
+*/coverage/
+**/*.pid
+**/*.seed
+**/.vscode
+#**/yarn.lock
+**/.grunt
+**/.lock-wscript
+**/.tern-project
+**/package-lock.json
+/target/
+
+# embedded cassandra
+**/.toDelete
+
+# windows
+**/Thumbs.db
+**/ehthumbs.db
+**/Desktop.ini
+**/$RECYCLE.BIN/
+
+#python
+**/.vscode
+**/build.pyc
+**/__pycache__
+**/.pydevproject
+MANIFEST
