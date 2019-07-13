@@ -19,6 +19,7 @@ function clone() {
 
 clone app git@github.com:alfredyctan/metric-collector.git
 clone app git@github.com:alfredyctan/garmin-map.git
+clone app git@github.com:alfredyctan/skr.git
 
 clone lib git@github.com:alfredyctan/afc.git
 clone lib git@github.com:alfredyctan/carril.git
